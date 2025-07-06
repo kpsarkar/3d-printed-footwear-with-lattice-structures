@@ -14,6 +14,6 @@ This project is **dual‑licensed**:
 | 🔒 Free, non‑commercial, no modifications | `Non-Commercial_LICENSE.txt`         |
 | 💼 Commercial use (with rights to modify & redistribute) | `LICENSE.txt`            |
 
-- - **Non‑Commercial** users may use and redistribute the unmodified code at no cost, under the terms in [Non‑Commercial_LICENSE](https://github.com/kpsarkar/3d-printed-footwear-with-lattice-structures/blob/main/Non-Commercial_LICENSE).  
+- **Non‑Commercial** users may use and redistribute the unmodified code at no cost, under the terms in [Non‑Commercial_LICENSE](https://github.com/kpsarkar/3d-printed-footwear-with-lattice-structures/blob/main/Non-Commercial_LICENSE).  
 - **Commercial** users wishing to integrate, modify, or redistribute this code in a product or service **must** obtain a commercial license—see [LICENSE.txt](https://github.com/kpsarkar/3d-printed-footwear-with-lattice-structures/blob/main/LICENSE) or email kumarprasenjeetsarkar@gmail.com.
 
