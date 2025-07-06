@@ -11,8 +11,8 @@ This project is **dual‑licensed**:
 
 | Use case                       | License file                         |
 |--------------------------------|--------------------------------------|
-| 🔒 Free, non‑commercial, no modifications | `LICENSE.txt`         |
-| 💼 Commercial use (with rights to modify & redistribute) | `Non-COmmercial_LICENSE.txt`            |
+| 🔒 Free, non‑commercial, no modifications | `Non-Commercial_LICENSE.txt`         |
+| 💼 Commercial use (with rights to modify & redistribute) | `LICENSE.txt`            |
 
 - **Non‑Commercial** users may use and redistribute the unmodified code at no cost, under the terms in [Non-Commercial_License.txt](./Non-Commercial_LICENSE.txt).  
 - **Commercial** users wishing to integrate, modify, or redistribute this code in a product or service **must** obtain a commercial license—see [LICENSE.txt](./LICENSE.txt) through email on kumarprasenjeetsarkar@gmail.com
